@@ -1,1 +1,0 @@
-# speechify-technical-assessment
